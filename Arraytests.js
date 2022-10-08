@@ -378,4 +378,4 @@ numberSolution = solution(10);
 console.log(numberSolution);
 console.time((numberSolution = solution(23)));
 
-/////////////////////    \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+/////////////////////  //  \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
